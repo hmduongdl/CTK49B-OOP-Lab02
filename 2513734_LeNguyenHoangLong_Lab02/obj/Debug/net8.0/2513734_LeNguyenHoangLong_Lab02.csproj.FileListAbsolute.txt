@@ -1,0 +1,14 @@
+D:\HocTap\NamNhat\HK2\2513734_LeNguyenHoangLong_Lab02\2513734_LeNguyenHoangLong_Lab02\bin\Debug\net8.0\2513734_LeNguyenHoangLong_Lab02.exe
+D:\HocTap\NamNhat\HK2\2513734_LeNguyenHoangLong_Lab02\2513734_LeNguyenHoangLong_Lab02\bin\Debug\net8.0\2513734_LeNguyenHoangLong_Lab02.deps.json
+D:\HocTap\NamNhat\HK2\2513734_LeNguyenHoangLong_Lab02\2513734_LeNguyenHoangLong_Lab02\bin\Debug\net8.0\2513734_LeNguyenHoangLong_Lab02.runtimeconfig.json
+D:\HocTap\NamNhat\HK2\2513734_LeNguyenHoangLong_Lab02\2513734_LeNguyenHoangLong_Lab02\bin\Debug\net8.0\2513734_LeNguyenHoangLong_Lab02.dll
+D:\HocTap\NamNhat\HK2\2513734_LeNguyenHoangLong_Lab02\2513734_LeNguyenHoangLong_Lab02\bin\Debug\net8.0\2513734_LeNguyenHoangLong_Lab02.pdb
+D:\HocTap\NamNhat\HK2\2513734_LeNguyenHoangLong_Lab02\2513734_LeNguyenHoangLong_Lab02\obj\Debug\net8.0\2513734_LeNguyenHoangLong_Lab02.GeneratedMSBuildEditorConfig.editorconfig
+D:\HocTap\NamNhat\HK2\2513734_LeNguyenHoangLong_Lab02\2513734_LeNguyenHoangLong_Lab02\obj\Debug\net8.0\2513734_LeNguyenHoangLong_Lab02.AssemblyInfoInputs.cache
+D:\HocTap\NamNhat\HK2\2513734_LeNguyenHoangLong_Lab02\2513734_LeNguyenHoangLong_Lab02\obj\Debug\net8.0\2513734_LeNguyenHoangLong_Lab02.AssemblyInfo.cs
+D:\HocTap\NamNhat\HK2\2513734_LeNguyenHoangLong_Lab02\2513734_LeNguyenHoangLong_Lab02\obj\Debug\net8.0\2513734_LeNguyenHoangLong_Lab02.csproj.CoreCompileInputs.cache
+D:\HocTap\NamNhat\HK2\2513734_LeNguyenHoangLong_Lab02\2513734_LeNguyenHoangLong_Lab02\obj\Debug\net8.0\2513734_LeNguyenHoangLong_Lab02.dll
+D:\HocTap\NamNhat\HK2\2513734_LeNguyenHoangLong_Lab02\2513734_LeNguyenHoangLong_Lab02\obj\Debug\net8.0\refint\2513734_LeNguyenHoangLong_Lab02.dll
+D:\HocTap\NamNhat\HK2\2513734_LeNguyenHoangLong_Lab02\2513734_LeNguyenHoangLong_Lab02\obj\Debug\net8.0\2513734_LeNguyenHoangLong_Lab02.pdb
+D:\HocTap\NamNhat\HK2\2513734_LeNguyenHoangLong_Lab02\2513734_LeNguyenHoangLong_Lab02\obj\Debug\net8.0\2513734_LeNguyenHoangLong_Lab02.genruntimeconfig.cache
+D:\HocTap\NamNhat\HK2\2513734_LeNguyenHoangLong_Lab02\2513734_LeNguyenHoangLong_Lab02\obj\Debug\net8.0\ref\2513734_LeNguyenHoangLong_Lab02.dll
